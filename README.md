@@ -1,4 +1,4 @@
-👋 Hi there! I'm John Doe
+### 👋 Hi there! I'm John Doe
 
 
 I’m a passionate software developer specializing in mobile app development with over 2 years of experience. I enjoy building cross-platform apps using Flutter and contributing to open-source projects.
@@ -8,8 +8,11 @@ I’m a passionate software developer specializing in mobile app development wit
 - Node.js, Firebase
 - Docker, Postman
 
-🌱 **Currently Learning:**
+🌱 **Currently Learning and Exploring:**
 - I’m currently learning Flutter(For 3 years)
+- Building smarter, AI-driven mobile experiences 📱✨
+
+⚡️ **Fun Fact**: I'm a huge fan of retro video games 🎮 and when I'm not coding, you'll probably find me trying to beat the high score on an arcade machine. Or drinking way too much coffee. ☕️
 
 📫 **Let's connect!**
 - [LinkedIn](https://www.linkedin.com/in/fatih-nalci-19148b228/)
