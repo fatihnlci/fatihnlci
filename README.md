@@ -17,6 +17,11 @@ I’m a passionate software developer specializing in mobile app development wit
 📫 **Let's connect!**
 - [LinkedIn](https://www.linkedin.com/in/fatih-nalci-19148b228/)
 
+<details>
+  <summary>More</summary>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</details>
+
 <!---
 fatihnlci/fatihnlci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
