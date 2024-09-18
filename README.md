@@ -15,7 +15,7 @@ I’m a passionate software developer specializing in mobile app development wit
 ⚡️ **Fun Fact**: I'm a huge fan of retro video games 🎮 and when I'm not coding, you'll probably find me trying to beat the high score on an arcade machine. Or drinking way too much coffee. ☕️
 
 📫 **Let's connect!**
-- [LinkedIn](https://www.linkedin.com/in/fatih-nalci-19148b228/)
+- [LinkedIn](https://www.linkedin.com/in/fatih-nalci-19148b228/), or shoot me an email at [fatih.nalci1130@gmail.com](mailto:fatih.nalci1130@gmail.com). I love connecting with fellow developers, so don't hesitate to say hi!
 
 <!---
 fatihnlci/fatihnlci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
