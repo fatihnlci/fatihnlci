@@ -12,7 +12,7 @@ I’m a passionate software developer specializing in mobile app development wit
 - I’m currently learning Flutter(For 3 years)
 
 📫 Let's connect!
-- [LinkedIn]([https://www.linkedin.com/in/fatih-nalci-19148b228](https://www.linkedin.com/in/fatih-nalci-19148b228/))
+- [LinkedIn](https://www.linkedin.com/in/fatih-nalci-19148b228/)
 
 <!---
 fatihnlci/fatihnlci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
