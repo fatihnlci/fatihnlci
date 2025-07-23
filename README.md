@@ -10,7 +10,7 @@ I’m a passionate software developer specializing in mobile app development wit
 - Docker, Postman
 
 🌱 **Currently Learning and Exploring:**
-- I’m currently learning Flutter(For 3 years)
+- I’m currently learning Flutter(For 4 years)
 - Building smarter, AI-driven mobile experiences 📱✨
 
 ⚡️ **Fun Fact**: I'm a huge fan of retro video games 🎮 and when I'm not coding, you'll probably find me trying to beat the high score on an arcade machine. Or drinking way too much coffee. ☕️
