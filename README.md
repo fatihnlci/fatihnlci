@@ -2,7 +2,7 @@
 
 <img width="480" alt="d406c736e7c4c57f5f61" src="https://github.com/user-attachments/assets/1aa734fe-885c-456f-9173-54968fddd9bd">
 
-I’m a passionate software developer specializing in mobile app development with over 2 years of experience. I enjoy building cross-platform apps using Flutter and contributing to open-source projects.
+I’m a passionate software developer specializing in mobile app development with over 3 years of experience. I enjoy building cross-platform apps using Flutter and contributing to open-source projects.
 
 🔧 **Technologies I work with:**
 - Flutter, Dart
